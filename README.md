@@ -1,0 +1,3 @@
+# Forking Demonstration
+A fork is a new repository that shares code and visibility settings with the original "upstream" repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository.
+This repository has been setup as an example repo to demonstrate to students how to fork a repository.
